@@ -1,0 +1,43 @@
+What is the student's first name? Lew 
+What is the student's last name? Piper 
+What was the first test score? 105.00
+Invalid score, the valid range is 0 – 100
+What was the first test score? 100.00
+What was the second test score? 92.00
+What was the third test score? 80.00
+
+Name: Lew Piper
+Average: 90.67
+Letter Grade: A
+
+Calculate another student grade: (press Y for Yes, press N for No) y 
+What is the student's first name? Hillary 
+What is the student's last name? DeCarl 
+What was the first test score? -81.00
+Invalid score, the valid range is 0 – 100
+What was the first test score? 81.00
+What was the second test score? 70.00
+What was the third test score? 86.00
+
+Name: Hillary DeCarl
+Average: 79.00
+Letter Grade: C
+
+Calculate another student grade: (press Y for Yes, press N for No) r 
+The command entered was an invalid letter entry.
+Calculate another student grade: (press Y for Yes, press N for No) u 
+The command entered was an invalid letter entry.
+Calculate another student grade: (press Y for Yes, press N for No) o 
+The command entered was an invalid letter entry.
+Calculate another student grade: (press Y for Yes, press N for No) y 
+What is the student's first name? Rick 
+What is the student's last name? Link 
+What was the first test score? 96.00
+What was the second test score? 78.00
+What was the third test score? 86.00
+
+Name: Rick Link
+Average: 86.67
+Letter Grade: B
+
+Calculate another student grade: (press Y for Yes, press N for No) n 
